@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hotel-booking",
+    "\\hotel-booking\\src",
+    "\\hotel-booking\\src\\main",
+    "\\hotel-booking\\src\\main\\java",
+    "\\hotel-booking\\src\\main\\java\\com",
+    "\\hotel-booking\\src\\main\\java\\com\\vti",
+    "\\hotel-booking\\src\\main\\java\\com\\vti\\hotelbooking",
+    "\\hotel-booking\\src\\main\\java\\com\\vti\\hotelbooking\\controller"
+  ],
+  "SelectedNode": "\\hotel-booking\\src\\main\\java\\com\\vti\\hotelbooking\\controller\\UserController.java",
+  "PreviewInSolutionExplorer": false
+}
